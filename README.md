@@ -52,13 +52,6 @@ else:
         real = -b / (2*a)
         imag = math.sqrt(-d) / abs(2*a)
         print(f"Complex roots: {real}+{imag}i and {real}-{imag}i")
-```
-
-Output:
-
-Enter a: 1
-Enter b: -3
-Enter c: 2
-Two distinct real roots: 2.0 and 1.0
+``
 
 Result: The program successfully calculates the roots of a quadratic equation.
