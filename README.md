@@ -3,10 +3,10 @@
 ## Student Details
 | Field | Details |
 | :--- | :--- |
-| Name | Khushi Kumari |
+| Name | Sanjana |
 | Course | B.Sc. (Hons.) Computer Science |
 | Semester | I (First Semester) |
-| Roll Number | 23/XXXXX |
+| Roll Number | 27560053 |
 | Subject Code | DSC-01 |
 | Subject | Programming Using Python |
 | College | Ramanujan College, University of Delhi |
